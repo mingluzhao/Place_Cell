@@ -1,8 +1,7 @@
 """
 Environment Module for Place Cell Navigation
 
-This module contains environment generators for different navigation scenarios,
-including mazes, corridors, u-shaped environments, and open fields.
+This module contains environment generators for different navigation scenarios
 
 Each environment is defined as a set of obstacle coordinates that can be
 passed to the PlaceCellModel for path planning and visualization.
@@ -182,7 +181,7 @@ def get_environment(env_type: str, grid_size: int = 40) -> List[Tuple[int, int]]
     Parameters:
     -----------
     env_type : str
-        Type of environment ('maze', 'u_shape', 's_shape', 'open_field', 'grid_maze', 'corridor')
+        Type of environment ('maze', 'u_shape', 's_shape', 'open_field')
     grid_size : int
         Size of the grid environment
         
