@@ -1,5 +1,4 @@
-# Place Cells as Position Embeddings of Multi-Time Random Walk Transition Kernels for Path Planning
-
+# Place Cells as Position Embeddings of Multi-Step Random Walk Transition Kernels --- Euclideanized and Sparsified Cognitive Maps for Path Planning
 
 ## Repository Structure
 
@@ -15,7 +14,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/Place_Cell
+git clone https://github.com/mingluzhao/Place_Cell
 cd Place_Cell
 
 # Install dependencies
