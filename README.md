@@ -1,4 +1,5 @@
-# Place Cells as Position Embeddings of Multi-Step Random Walk Transition Kernels --- Euclideanized and Sparsified Cognitive Maps for Path Planning
+# Place Cells as Position Embeddings of Multi-Step Random Walk Transition Kernels:
+## Euclideanized and Sparsified Cognitive Maps for Path Planning
 
 ## Repository Structure
 
